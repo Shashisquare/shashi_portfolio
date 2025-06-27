@@ -108,7 +108,7 @@ const Navbar = ({ toggleTheme, darkMode }) => {
               cursor: "pointer",
             }}
           >
-            <FaCode size="2rem"  /> <Span>Sasi</Span>{" "}
+            <FaCode size="2rem"  /> <Span>Shashi</Span>{" "}
           </a>
         </NavLogo>
         <MobileIcon>

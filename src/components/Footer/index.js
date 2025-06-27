@@ -112,7 +112,7 @@ function Footer({toggleTheme, darkMode}) {
   return (
     <FooterContainer>
       <FooterWrapper>
-        <Logo>Sasi Kumar Alakunta</Logo>
+        <Logo>Shashi Kumar Alakunta</Logo>
 
         <SocialMediaIcons>
           <SocialMediaIcon href="mailto:shashipspk2@gmail.com" target="display" title='Email'><EmailIcon /></SocialMediaIcon>
