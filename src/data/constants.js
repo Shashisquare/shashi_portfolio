@@ -1,7 +1,7 @@
 
 
 export const Bio = {
-  name: "Shashi Kumar",
+  name: "Sasi Kumar",
   roles: [
     'Figma', 'Adobe XD',
   ],
